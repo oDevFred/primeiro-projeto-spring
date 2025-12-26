@@ -73,7 +73,9 @@ O projeto contém uma implementação simples de JWT para ilustração. Em produ
 
 ## Créditos
 
-Este projeto foi desenvolvido junto com a aula do professor Matheus Leandro: https://www.youtube.com/watch?v=SqU9v_V32RA
+- Aula do professor Matheus Leandro (vídeo): https://www.youtube.com/watch?v=SqU9v_V32RA
+- Repositório do Matheus: https://github.com/matheuslf/meu-primeiro-curso-springboot
+- Perfil GitHub do Matheus: https://github.com/matheuslf
 
 ## Contribuição
 
